@@ -1,6 +1,13 @@
 ### hey there <img alt="giphy.gif" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-   hi, I'm [luckrnx09](https://luckrnx09.com), a passionate web developer from China. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+   <p>
+      hi, I'm [luckrnx09](https://luckrnx09.com), a passionate web developer from China. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+   </p>
+
+
+<img align="right" src="wechat.jpg" width="150" />
+
 
 💬 Ask me about anything, I am happy to help ;)
  
@@ -17,11 +24,6 @@
 <p align="center">
   <a href="https://buymeacoffee.com/luckrnx09" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> 
    <br> 
-   By me a coffee
 </p>
-<p align="center"> -- OR -- </p>
-<p align="center">
-  <a href="https://buymeacoffee.com/luckrnx09" target="_blank"><img src="alipay.jpg" alt="Alipay" width="150" ></a> 
-   <br> 
-   Alipay
-</p>
+<p align="center"> </p>
+
